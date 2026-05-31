@@ -1,4 +1,4 @@
-# DSA-Practice
-DSA solutions and practice problems in C++ of Strivers A2Z Sheet
-Language : C++
-Goal : Improve DSA for FAANG-Level Placements
+# DSA-Practice <br>
+DSA solutions and practice problems in C++ of Strivers A2Z Sheet <br>
+Language : C++ <br>
+Goal : Improve DSA for FAANG-Level Placements <br>
