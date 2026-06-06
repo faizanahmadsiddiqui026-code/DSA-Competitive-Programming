@@ -15,12 +15,14 @@ This repository documents my structured journey of mastering Data Structures and
 - Arrays & Strings
 - Recursion & Backtracking
 - Linked List
-- Stack & Queue
+- Stack & Queue & Heaps
 - Trees & BST
 - Graphs (BFS/DFS, shortest paths)
 - Dynamic Programming
 - Greedy Algorithms
 - Bit Manipulation
+- Tries
+- Binary Search & Sliding Window
 
 ---
 
