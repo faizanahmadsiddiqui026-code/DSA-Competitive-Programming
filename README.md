@@ -21,8 +21,8 @@ This repository documents my structured journey of mastering Data Structures and
 - Dynamic Programming
 - Greedy Algorithms
 - Bit Manipulation
-- Tries
 - Binary Search & Sliding Window
+- Tries
 
 ---
 
