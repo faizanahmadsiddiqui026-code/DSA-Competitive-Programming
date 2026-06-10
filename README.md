@@ -42,6 +42,7 @@ To develop strong problem-solving skills and secure a Software Development Engin
 - Focus on optimal solutions
 - Revision of patterns and concepts
 - Participation in contests
+- Brute force - Better - Optimal Solution
 
 ---
 
