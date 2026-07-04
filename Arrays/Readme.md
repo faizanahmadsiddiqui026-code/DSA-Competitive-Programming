@@ -1,2 +1,2 @@
-Problem on Arrays <br>
+Problems on Array <br>
 Easy - Medium - Hard
